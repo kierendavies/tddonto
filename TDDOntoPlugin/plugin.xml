@@ -1,7 +1,7 @@
 <?eclipse version="3.0"?>
 <plugin>
     <extension id="TDDOnto" point="org.protege.editor.core.application.ViewComponent">
-        <label value="TDDOnto" />
+        <label value="TDDOnto"/>
         <class value="put.aristoteles.tddontoprotege.TDDOntoRunner"/>
         <headerColor value="@org.protege.classcolor"/>
         <category value="Evaluation"/>
